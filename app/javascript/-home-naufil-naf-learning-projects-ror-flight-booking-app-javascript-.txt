@@ -1,0 +1,1 @@
+/home/naufil/naf-learning/projects/ror/flight-booking/app/javascript/channels
